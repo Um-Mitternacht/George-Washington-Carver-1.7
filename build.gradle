@@ -129,7 +129,7 @@ dependencies {
     compile "applecore:AppleCore:${minecraft_version}-${applecore_version}:api"
     deobfCompile "mcp.mobius.waila:Hwyla:1.8.10-B24_1.10.2"
     compile "net.ilexiconn:llibrary:1.7.4-1.10.2:dev"
-    runtime "mezz.jei:jei_1.10.2:3.14.6.412"
+    runtime "mezz.jei:jei_1.10.2:3.14.7.414"
     testCompile "junit:junit:4.11"
     compile name: 'mp3plugin'
     compile name: 'mp3spi1.9.5'
